@@ -1,0 +1,14 @@
+a1 {
+    font-style: italic;
+    text-decoration: none;
+    color: #444
+}
+
+#contenu {
+    color: #444;
+    line-height: 1.6;
+    font-size: 18px;
+    margin: 40px auto;
+    max-width: 650px;
+    padding: 0 10px 0 10px;
+}
